@@ -1,0 +1,7 @@
+{:topicgroup: .topicgroup}
+
+{: .toc subcollection="Db2Hosted" audience="service" href="/docs/services/Db2Hosted/index.html"}
+IBM DB2 Hosted
+
+  {: .topicgroup}
+    index.md
