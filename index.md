@@ -7,7 +7,7 @@ lastupdated: "2017-06-20"
 ---
 
 {:shortdesc: .shortdesc}
-{:new_window: target="_blank"}
+{:new_window: target="_blank" rel="noopener noreferrer"}
 
 # Getting started with Db2 Hosted
 {: #db2oc_getting_started}
@@ -23,7 +23,7 @@ and receive your welcome letter with the service details,
 
 - [Community Forum Support for general questions](https://ibm.biz/db2-on-cloud-forum){: new_window}
   (via developerWorks®)
-- [Db2 Hosted Learning Center](https://developer.ibm.com/clouddataservices/docs/db2/){: new_window}
+- [Db2 Hosted Learning Center](https://developer.ibm.com/clouddataservices/docs/db2/#){: new_window}
 - [Support Ticketing System for offering issues](https://ibm.biz/db2-on-cloud-support){: new_window}
   (via Bluemix)
 - [Db2 patches and updates](https://ibm.biz/db2-on-cloud-updates){: new_window}
