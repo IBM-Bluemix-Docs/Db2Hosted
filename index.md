@@ -25,7 +25,7 @@ and receive your welcome letter with the service details,
   (via developerWorks®)
 - [Db2 Hosted Learning Center](https://developer.ibm.com/clouddataservices/docs/db2/#){: new_window}
 - [Support Ticketing System for offering issues](https://ibm.biz/db2-on-cloud-support){: new_window}
-  (via Bluemix)
+  (via IBM Cloud)
 - [Db2 patches and updates](https://ibm.biz/db2-on-cloud-updates){: new_window}
   (via Fix Central)
 - [Operating system patches and updates](https://ibm.biz/db2-on-cloud-rhel-updates){: new_window}
