@@ -1,6 +1,6 @@
 {:topicgroup: .topicgroup}
 
-{: .toc subcollection="Db2Hosted" audience="service" href="/docs/services/Db2Hosted/index.html"}
+{: .toc subcollection="Db2Hosted" audience="service" arm="2095106" href="/docs/services/Db2Hosted/index.html"}
 IBM DB2 Hosted
 
   {: .topicgroup}
