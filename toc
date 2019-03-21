@@ -1,7 +1,9 @@
 {:topicgroup: .topicgroup}
+{:navgroup: .navgroup}
 
-{: .toc subcollection="Db2Hosted" audience="service" arm="2095106" href="/docs/services/Db2Hosted/index.html"}
+{: .toc subcollection="Db2Hosted" audience="service" arm="2095106" href="/docs/services/Db2Hosted/index.html" path="services/Db2Hosted"}
 IBM DB2 Hosted
 
-  {: .topicgroup}
+    {: .navgroup id="learn"}
     index.md
+    {: .navgroup-end}
