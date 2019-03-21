@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2018
-lastupdated: "2018-04-12"
+lastupdated: "2019-03-20"
 
 ---
 
@@ -14,7 +14,7 @@ lastupdated: "2018-04-12"
 
 Db2® Hosted is a hosted Db2 database service. Provisioned on-demand when you purchase the service, Db2 database is installed on a host machine in the cloud. After the server is set up, you take over management of the server.
 
-After you [request a service](https://console.bluemix.net/catalog/services/db2-hosted)
+After you [request a service](/catalog/services/db2-hosted)
 and receive your welcome letter with the service details,
 [**view the PDF documentation to get started**](https://public.dhe.ibm.com/cloud/bluemix/hosted/).
 
