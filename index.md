@@ -23,6 +23,7 @@ and receive your welcome letter with the service details,
 
 ## More resources
 
+- [Why Db2 Hosted?](https://www.ibm.com/cloud/db2-hosted)
 - [Community Forum Support for general questions](https://ibm.biz/db2-on-cloud-forum){: new_window}
   (IBM Developer)
 - [Support Ticketing System for offering issues](https://ibm.biz/db2-on-cloud-support){: new_window}
