@@ -6,6 +6,8 @@ lastupdated: "2019-08-20"
 
 keywords: hosted services, database
 
+subcollection: Db2Hosted
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -19,7 +21,11 @@ Db2® Hosted is a hosted Db2 database service. Provisioned on-demand when you pu
 
 After you [request a service](/catalog/services/db2-hosted)
 and receive your welcome letter with the service details,
-[**view the PDF documentation to get started**](https://public.dhe.ibm.com/cloud/bluemix/hosted/).
+view the PDF documentation to get started:
+
+- [Db2 Hosted User Guide (1.1.0)](https://cloud.ibm.com/media/docs/downloads/hosted-svcs/db2/db2hosted_1.1.0_en_userguide.pdf)
+- [Db2 Hosted User Guide (1.2.0)](https://cloud.ibm.com/media/docs/downloads/hosted-svcs/db2/db2hosted_1.2.0_en_userguide.pdf)
+
 
 ## More resources
 
