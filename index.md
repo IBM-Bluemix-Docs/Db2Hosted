@@ -37,4 +37,4 @@ view the PDF documentation to get started:
 - [Db2 patches and updates](https://ibm.biz/db2-on-cloud-updates){: new_window}
   (Fix Central)
 - [Operating system patches and updates](https://ibm.biz/db2-on-cloud-rhel-updates){: new_window}
-  (Redhat)
+  (Red Hat)
