@@ -2,7 +2,7 @@
 {:navgroup: .navgroup}
 
 {: .toc subcollection="Db2Hosted" category="database" audience="service" arm="2095106" href="/docs/Db2Hosted?topic=Db2Hosted-db2oc_getting_started" path="Db2Hosted"}
-IBM DB2 Hosted
+Db2 Hosted
 
     {: .navgroup id="learn"}
     index.md
